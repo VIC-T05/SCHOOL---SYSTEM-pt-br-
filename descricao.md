@@ -33,5 +33,4 @@ acadêmico. Abaixo estão as principais funcionalidades do sistema:
   
 O código demonstra conceitos como loops, arrays, validação de entrada e estruturas
 condicionais, fornecendo uma base para projetos acadêmicos iniciantes em C.
-
 ---------------------------------------------------------------------------------------------
